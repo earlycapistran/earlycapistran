@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- I'm a David H. Smith Conservation Fellow at Stanford University
+- I'm a cultural anthropologist and marine scientist
+- I'm interested in integrating Local Ecological Knowledge with ecological modeling
+
 <!--
 **earlycapistran/earlycapistran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
