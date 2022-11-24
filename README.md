@@ -7,6 +7,9 @@
 # GitHub stats
 [![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats&hide=stars)
 
+# Top languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
+
 __You can find me here:__
 
 [![Twitter](https://img.shields.io/twitter/follow/earlycapistran?style=social&url=https://twitter.com/earlycapistran)](https://twitter.com/earlycapistran)
