@@ -5,11 +5,11 @@
 - :earth_americas: I'm a David H. Smith Conservation Fellow at [Stanford University](https://crowderlab.stanford.edu/)
 - :scroll: I'm a marine scientist (PhD and MS) and cultural anthropologist (Licentiate)
 - :fishing_pole_and_fish: I'm interested in integrating Local Ecological Knowledge with ecological modeling
-- :computer: Personal website: <earlycapistran.github.io>
+- :computer: Personal website: <https://earlycapistran.github.io>
 - :green_book: You can check out my publications at [ResesarchGate](https://www.researchgate.net/profile/Michelle-Maria-Early-Capistran-2)
 
 <h3 align="left">GitHub stats and activity</h3>
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats&hide=stars)
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
 
