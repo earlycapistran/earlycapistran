@@ -4,6 +4,9 @@
 - I'm a cultural anthropologist and marine scientist
 - I'm interested in integrating Local Ecological Knowledge with ecological modeling
 
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
+
+
 <!--
 **earlycapistran/earlycapistran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
