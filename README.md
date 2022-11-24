@@ -9,7 +9,7 @@
 
 __You can find me here:__
 
-[![Twitter](https://img.shields.io/twitter/follow/earlycapistran?style=social&url=https://twitter.com/blasbenito)](https://twitter.com/blasbenito)
+[![Twitter](https://img.shields.io/twitter/follow/earlycapistran?style=social&url=https://twitter.com/earlycapistran)](https://twitter.com/earlycapistran)
 [![LinkedIn](https://img.shields.io/twitter/url?style=social&label=connect%20with%20me&logo=linkedin&url=https://www.linkedin.com/in/earlycapistran/)](https://www.linkedin.com/in/earlycapistran/)
 
 <!--
