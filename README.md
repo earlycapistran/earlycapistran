@@ -5,7 +5,7 @@
 - :fishing_pole_and_fish: I'm interested in integrating Local Ecological Knowledge with ecological modeling
 
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats&hide=stars)
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran&hide=stars)](https://github.com/earlycapistran/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
 
