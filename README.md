@@ -6,7 +6,7 @@
 - :scroll: I'm a marine scientist (PhD and MS) and cultural anthropologist (Licentiate)
 - :rowboat: I'm interested in integrating Local Ecological Knowledge with ecological modeling
 - :computer: Personal website: <https://earlycapistran.github.io>
-- :green_book: You can check out my publications at [ResesarchGate](https://www.researchgate.net/profile/Michelle-Maria-Early-Capistran-2)
+- :green_book: You can check out my publications at [ResearchGate](https://www.researchgate.net/profile/Michelle-Maria-Early-Capistran-2)
 
 <h3 align="left">GitHub stats and activity</h3>
 
