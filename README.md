@@ -10,7 +10,7 @@
 
 <h3 align="left">GitHub stats and activity</h3>
 
-[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
+[![Michelle's GitHub stats](https://github-readme-stats.vercel.app/api?username=earlycapistran&hide=stars)](https://github.com/earlycapistran/github-readme-stats)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=earlycapistran)](https://github.com/earlycapistran/github-readme-stats)
