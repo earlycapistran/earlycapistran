@@ -1,3 +1,4 @@
+![](https://github.com/earlycapistran/earlycapistran/blob/main/LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm Michelle María Early Capistrán</h1>
 <h3 align="center">Social Anthropologist + Marine Scientist</h3>
