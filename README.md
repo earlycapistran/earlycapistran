@@ -1,5 +1,5 @@
 
-![](https://github.com/earlycapistran/earlycapistran/blob/main/LinkedIn%20Banner.png)
+![](https://github.com/earlycapistran/earlycapistran/blob/main/github_banner.png)
 
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">Social Anthropologist + Marine Scientist</h3>
