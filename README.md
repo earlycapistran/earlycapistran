@@ -2,7 +2,7 @@
 ![](https://github.com/earlycapistran/earlycapistran/blob/main/github_banner_new.png)
 
 <h1 align="center">Welcome to my GitHub</h1>
-<h3 align="center">Social Anthropologist + Marine Scientist</h3>
+<h3 align="center">Social Anthropologist + Marine Scientist + Data Scientist</h3>
 
 - :earth_americas: I'm a David H. Smith Conservation Fellow at [Stanford University](https://crowderlab.stanford.edu/)
 - :scroll: I'm a marine scientist (PhD and MS) and cultural anthropologist (Licentiate)
