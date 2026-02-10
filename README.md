@@ -4,7 +4,7 @@
 <h1 align="center">Welcome to my GitHub</h1>
 <h3 align="center">Social Anthropologist + Marine Scientist + Data Scientist</h3>
 
-- :earth_americas: I'm a David H. Smith Conservation Fellow at [Stanford University](https://crowderlab.stanford.edu/)
+- :earth_americas: I'm a Research Scientist at [Stanford University](https://crowderlab.stanford.edu/)
 - :scroll: I'm a marine scientist (PhD and MS) and cultural anthropologist (Licentiate)
 - :rowboat: I'm interested in integrating Local Ecological Knowledge with ecological modeling
 - :computer: Personal website: <https://earlycapistran.github.io>
